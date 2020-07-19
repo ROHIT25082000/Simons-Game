@@ -12,7 +12,7 @@ var level = 0;
 var userInputPattern = [];
 var gameInputPattern = [];
 
-// Events and triggers 
+// Events and triggers uses jQuery 
 
 $("body").on("keypress",function(){
     if(!started){
