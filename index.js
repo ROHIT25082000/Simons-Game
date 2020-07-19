@@ -1,4 +1,7 @@
-
+/* 
+* Author : Rohit Vishwakarma
+* Email : rv021561@gmail.com
+*/
 var colors = ["red" ,"blue", "green", "yellow"];
 var started = false;
 var userOn = true;
