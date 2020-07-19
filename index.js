@@ -64,7 +64,7 @@ function animation(color){
         $("#"+color).removeClass("pressed");
         var colorSound = new Audio('sounds/'+color+".mp3");
         colorSound.play();
-    },100);
+    },150);
 }
 
 function checkPattern(index){
